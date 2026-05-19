@@ -1,0 +1,10 @@
+#Environment
+.venv
+
+#Jupyter
+*.Ds_Store
+
+#Python
+__pycache__/
+*.pyc
+*.pyc
